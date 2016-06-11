@@ -1,0 +1,263 @@
+!!!	Numbers
+kweti	one
+nisha	two
+naxa	three
+newa	four
+palenaxk	five
+kwetash	six
+nishash	seven
+xash	eight
+peshkunk	nine
+telen	ten
+nishinxke	twenty
+xinxke	thirty
+neinxke	fourty
+!!!	Person Words 1.1
+ni	I
+ki	you
+neka	he/she
+niluna	we (ex.)
+kiluna	we (in.)
+kiluwa	you all
+nekamo	they
+!!!	Body Parts 2.1
+milaxk	hair
+mamaona	eyebrows
+xkwekankana	necks
+wananuwa	cheek
+hwikwia	chins
+shetuna	lips
+wipita	teeth
+wiskona	elbows
+hwikash	fingernails/hooves
+lelawelencha	fingers
+ahshilunkona	armpits
+tukwelencha	fists
+xkelixena	ribs
+xkana	bones
+mutaya	stomachs
+teha	hearts
+poma	thighs/buttocks
+hwikwkona	shins
+tankata	ankles
+!!!	Colors
+seksu	he/she is black
+aonsu	he/she is blue
+askaskwsu	he/she is green
+wipunkwsu	he/she is grey
+maxksu	he/she is red
+opsu	he/she is white
+wisawsu	he/she is yellow
+sesapsu	he/she is spotted
+mamalsu	he/she is striped
+seke	it is black
+aon	it is blue
+askaskw	it is green
+wipunkw	it is grey
+maxk	it is red
+ope	it is white
+wisae	it is yellow
+sesap	it is spotted
+mamale	it is striped
+!!!	Personal Items 2.3
+menutesa	wallets
+husak	buckets
+ehsak	clams
+kendisa	candies
+lelehuna	fans
+mikwenak	feathers
+tentay	fires
+otaesak	flowers
+xkanakhako	gourds
+shemuwak	horns/antlers
+wikewama	houses
+ohshixayo	nests
+lunkona	wings
+hupokana	pipes
+xesak	skins/hides/leather
+hatsak	sinews
+kshatay	tobacco
+shontay	door
+puhenikana	drums
+pepuhenikesak	drummers
+lashimewakana	dreams
+!!!	Other Words 2.3
+yukwe	now
+et	I guess
+a	should/ought to
+xuniti	soon
+lapi	again
+kexiti	a little
+somi/ahi	very
+takiti	little while
+mikwi	often
+nkeme	I often
+matanake	after a while
+!!!	Food 1.4
+apelishak	apples
+malaxkwsita	beans
+ahpona	bread
+kepecha	cabbages
+chelisak	cherries
+pakima	cranberries
+wiyusak	meats
+nunakana	milk/breasts
+tukolaxkwsita	peas
+keskunhaka	pumpkins
+tehima	strawberries
+temetosak	tomatoes
+tukwima	walnut
+oola	egg
+lukat	flour
+pom	ham
+salapona	frybreads
+mastel	mustard
+hotemil	oatmeal
+kapi	coffee
+pehpastek	rice
+ahkokweyok	mushroom
+kukumsa	cucumbers/pickles
+pankuka	pancakes
+!!!	Other Words 2.4
+mechi	already
+nkati	I almost
+wenchi	reason
+nal ne wenchi	that is the reason
+xantki	finally
+lekhikwi	at this time
+tamse	sometimes
+apchi	always
+apchich	forever
+!!!	Clothes 2.5
+kelamapisuna	belts
+kelapia	bras
+silka	ribbons
+anishuna	shoestrings
+lamunkpelechisa	underpants
+wixkwelunchepia	gloves
+akontpepia	scarves/neckerchiefs/handkerchiefs
+hempsa	shirts
+pelechisa	pants
+chipako	shoes
+ahshikana	socks
+kakuna	leggings
+tepethuna	wrap=around skirt
+alukwepia	hats
+lenhaksena	moccassins
+sholema	shawls
+ahkwiyana	blankets
+!!!	Household Words 2.6
+tankhakana	baskets
+mitkema	poles/posts
+mitkoka	corn cobs
+opsko	corn husks
+pimewakana	sweat lodge
+shuhenikana	rattle
+temahikana	axes/hatchets
+ahpikona	flutes
+tunkshekokana	keys
+hatapia	bows
+alunsa	arrows
+mpisuna	medicines
+hakhako	bottles
+punkw	dust/ashes
+oxe	light/daylight
+alewikaona	porches
+ilaok	warriors
+tepihelasa	wheels
+tepchehelasa	cars/wagons
+!!!	Other Words 2.6
+chinke hech	when
+keku hech	what
+wemi keku	everything
+awen	someone
+awen hech	who
+wemi	all
+wemi awen	everyone
+aweni/awenikii	whose
+mata awen	no one
+tani	where
+teta	wherever
+keku wenchi	why
+ta hech	how
+kexa hech	how many
+!!!	Garden Words
+kwipelenaya	hoes
+talaxhakiyakana	plows
+putachikana	whistles
+siskewahusak	clay pots
+haki	dirt/land
+hakihakana	gardens
+hakihet	farmer
+hakihechik	farmers
+!!!	People Terms
+mimentetak	babies
+mimensak	children
+lenuwak	men
+xkweyok	women
+pilayechechtetak	little boys
+pilayechechak	boys
+skinuwak	young men
+kikewinuwak	middle-aged men
+hilusesak	old men
+pokhilusak	extremely old men
+xkwechechtetak	little girls
+xkwechechak	girls
+skixkweyok	young women
+kikewi xkweyok	middle-aged women
+pokxaweshak	extremely old women
+awenhake	Native American
+sekahkoles	black person
+wapsini	white person
+shewanakw	white person (derogitory)
+lakeit	tribe/nationality
+lakeitshik	tribes/nationalities
+elhakeya	my tribe
+lakeyu	his/her tribe
+!!!	Animals I
+aesesak	animals
+pisilunkonak	bats
+maxkeyok	bears
+tamakweyok	beavers
+chingweyok	bobcat
+sisilieyok	buffalo
+mpulak	bulls
+pushisak	cats
+wehshumwisak	cows
+anikwesak	chipmunk
+ahtuhok	deer
+mwekaneyok	dogs
+musak	elk
+namesak	fish
+okwesak	fox
+chahkolak	frogs
+kweshkweshak	hogs
+nahenaonkesak	horses
+yakwaweyok	mastodon
+pahkakwenetak	moose
+!!!	Birds I
+chulensak	birds
+xkweheleyok	female birds
+wisawtoyasak	American goldfinches
+chekenako	blackbirds
+opalaniyeyok	bald eagles
+melekak	blue geese
+tiyasak	blue jays
+mochipwisak	buzzards/vultures
+ahasak	crows
+maxkchulensak	cardinals
+kaxkuweyok	cuckoos
+tipasak	chickens
+tipatetak	chicks
+kwikwingemak	ducks
+mamethakemuwak	doves
+kwekwesak	downy woodpeckers
+chihopekelisak	eastern bluebirds
+chichikenemwikenhwisak	eastern meadowlarks
+aihamak	golden eagles
+sesaptiyasak	guinea fowls
+ohundamak	great horned owls
+opsuwiheleyok	geese
+chelilhwesak	kingfishers
+mitewilehunak	loons
+askaskontpatak	mallard ducks
